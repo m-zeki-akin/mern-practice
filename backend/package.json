@@ -1,7 +1,8 @@
 {
-    "name": "mern-practice",
+    "name": "backend",
     "version": "1.0.0",
     "description": "practice",
+    "private": true,
     "main": "app.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +12,7 @@
         "url": "https://github.com/m-zeki-akin/mern-practice.git"
     },
     "keywords": [
-        "'"
+        ""
     ],
     "author": "",
     "license": "ISC",
