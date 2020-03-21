@@ -1,0 +1,22 @@
+{
+    "name": "mern-practice",
+    "version": "1.0.0",
+    "description": "practice",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/m-zeki-akin/mern-practice.git"
+    },
+    "keywords": [
+        "'"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node": "^13.7.0",
+        "express": "^4.17.1"
+    }
+}
