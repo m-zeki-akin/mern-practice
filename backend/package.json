@@ -3,9 +3,10 @@
     "version": "1.0.0",
     "description": "practice",
     "private": true,
-    "main": "app.js",
+    "main": "server.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
         "type": "git",
@@ -18,7 +19,7 @@
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1",
-        "node": "^13.7.0",
+        "body-parser": "^1.19.0",
         "uuid": "^7.0.2"
     }
 }
